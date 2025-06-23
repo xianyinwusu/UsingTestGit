@@ -43,3 +43,18 @@ function B (a + b)
 	return 1 + 1;
  	+ B
 }
+
+
+function B (a + b)
+{
+	return 1 + 1;{
+	return 1 + 1;{
+	return 1 + 1;{
+	return 1 + 1;{
+	return 1 + 1;{
+	return 1 + 1;{
+	return 1 + 1;{
+	return 1 + 1;{
+	return 1 + 1;
+ 	+ C
+}
